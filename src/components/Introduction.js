@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Introduction = () => (
-  <div className="p-4">
+  <div id="introduction" className="p-4">
     <h2 className="text-2xl font-bold">Introduction</h2>
     <p className="mt-2">
       <strong>Frictionless PHP Development!</strong> Seamlessly run and switch between different versions of PHP, with different installed extensions, thanks to the power of containers.

@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Usage = () => (
-  <div className="p-4">
+  <div id="usage" className="p-4">
     <h2 className="text-2xl font-bold">Usage</h2>
     <p>Then you can use <code className="bg-gray-700 text-white p-1 rounded">phpctl</code> or <code className="bg-gray-700 text-white p-1 rounded">pctl</code> with a subcommand:</p>
     <div className="bg-gray-800 text-white p-4 rounded my-4">
